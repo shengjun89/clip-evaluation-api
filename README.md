@@ -1,10 +1,4 @@
-# Nano Banana Figma Plugin
-
-一个集成了 CLIP 图像评估功能的 Figma 插件项目，提供智能的文本-图像相似度评估服务。
-
-## 🌟 核心功能
-
-### 🤖 CLIP 评估 API
+## 🤖 CLIP 评估 API
 **部署状态**: 🚀 已部署到 Vercel，支持全球访问
 
 - 基于智能模拟的 CLIP 评估算法
