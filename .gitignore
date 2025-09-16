@@ -1,0 +1,13 @@
+.vercel
+clip_env/
+node_modules/
+*.log
+.env
+.DS_Store
+image-cache/
+temp/
+public/images/
+*.pyc
+__pycache__/
+models/
+*.onnx
